@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound.deps.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound.dll
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/bin/Debug/netcoreapp3.0/InheritanceColorSound.pdb
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/obj/Debug/netcoreapp3.0/InheritanceColorSound.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/obj/Debug/netcoreapp3.0/InheritanceColorSound.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/obj/Debug/netcoreapp3.0/InheritanceColorSound.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/obj/Debug/netcoreapp3.0/InheritanceColorSound.dll
+/Users/Heidi/workspace/CSharpDemos/InheritanceColorSound/obj/Debug/netcoreapp3.0/InheritanceColorSound.pdb
